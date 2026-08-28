@@ -29,3 +29,4 @@ while criterio_parada != 10:
         criterio_parada = 0
     else:
         criterio_parada = criterio_parada + 1
+
